@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "647200209465",
+    "project_id": "advacateconnect-auth",
+    "storage_bucket": "advacateconnect-auth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647200209465:android:185dc4c595ec4a7f986be8",
+        "android_client_info": {
+          "package_name": "com.ayan.adovacteconnect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "647200209465-uptun0nm534hiasrfhb52astasr221ii.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDsJoBWeTg5h_E2A_cXP2bhiWk1c6m0hY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "647200209465-uptun0nm534hiasrfhb52astasr221ii.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
